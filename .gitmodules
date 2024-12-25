@@ -1,3 +1,5 @@
 [submodule "common"]
 	path = common
 	url = https://github.com/joshmorgan1000/rxrevolt-client-common.git
+[submodule "web"]
+	branch = main
